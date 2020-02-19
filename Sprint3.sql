@@ -1,0 +1,42 @@
+items,Types,"Selling Price","Stock Price",Quantity,Barcode
+chips,lays,18,10,200,123654789
+chips,simba,20,14,180,11122233355
+chips,doritos,19,11,45,7788996655
+chips,nikanaks,15,10.5,90,10111378
+chips,cornitos,11,9.5,65,11111444
+Cooldrinks,Coke,19,17,250,333377778
+Cooldrinks,Sprite,17,14,120,11155599
+Cooldrinks,Fanta,18,14,250,55669987
+Cooldrinks,Jive,15,11.5,140,44488856
+Cooldrinks,Schweppes,20,15,90,1114456987
+Chocolates,Cadbury,19,12,50,111445687
+Chocolates,Tex,14,7.5,35,19900613
+Chocolates,Lunchbar,17,13,40,5559
+Chocolates,BarOne,16,12,45,1990061362
+Chocolates,PS,18,12.5,60,11144556
+Chocolates,PS,18,12.5,60,11144556
+Veggies,Carrots,22,11.5,25,11144556
+Veggies,Pumpkin,27,19,20,101112358
+Veggies,Broccoli,28,18.5,15,1011144
+Veggies,Cabbage,25,19,17,101114554
+Veggies,Potatoes,30,25,45,10112222
+Cereals,Weetbix,29,19,25,2222222
+Cereals,Cornflakes,35,20.9,20,3333444
+Cereals,Futurelife,35,22.5,25,111144488
+Cereals,JungleOats,30,25.33,30,1117755
+Cereals,"Rice krispies",30,23,35,555999888444111333
+Cereals,Weetbix,29,19,25,2222222
+Cereals,Cornflakes,35,20.9,20,3333444
+Cereals,Futurelife,35,22.5,25,111144488
+Cereals,JungleOats,30,25.33,30,1117755
+Cereals,"Rice krispies",30,23,35,555999888444111333
+Cupcakes,Velvet,29,17,25,1110333
+Cupcakes,Vanilla,23,30,26,1145033
+Cupcakes,Chocolate,20,27,15,89754610
+Cupcakes,Blueberry,20,35,10,22356987
+Cupcakes,Chocmint,27,35,10,22356105
+Cupcakes,Velvet,29,17,25,1110333
+Cupcakes,Vanilla,23,30,26,1145033
+Cupcakes,Chocolate,20,27,15,89754610
+Cupcakes,Blueberry,20,35,10,22356987
+Cupcakes,Chocmint,27,35,10,22356105
